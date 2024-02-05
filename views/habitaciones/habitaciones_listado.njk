@@ -1,0 +1,23 @@
+{% extends "base.njk" %}
+{% block titulo %}Habitaciones | Listado{% endblock %}
+{% block contenido %}
+    <h1>Listado de habitaciones</h1>
+    <div class="container">
+        <div class="row g-2">
+        {% for habitacion in habitaciones %}
+        <div class="col-4">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">Habitación: {{ habitacion.numero }}</h2>
+                    <br>
+                        <p class="card-subtitle mb-2 text-muted font-italic">Última limpieza: <time>{{ habitacion.ultimaLimpieza.toLocaleString()}}</time></p>
+                        <a href="/habitaciones/{{ habitacion.id }}" class="btn btn-primary">
+                            Ver Ficha
+                        </a>
+                    </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        </div>
+    {% endblock %}

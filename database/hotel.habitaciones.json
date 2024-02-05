@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "4d4d4d4d4d4d4d4d4d4d4d4d"
+  },
+  "numero": 4,
+  "tipo": "suite",
+  "descripcion": "Habitación con dos camas XL, terraza y vistas al mar",
+  "ultimaLimpieza": {
+    "$date": "2023-10-10T12:05:10.000Z"
+  },
+  "precio": 110.2,
+  "incidencias": [
+    {
+      "descripcion": "modificado",
+      "fechaInicio": {
+        "$date": "2023-11-27T21:22:06.467Z"
+      },
+      "_id": {
+        "$oid": "6565087ecf6d7b7dd8685952"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "1a1a1a1a1a1a1a1a1a1a1a1a"
+  },
+  "numero": 1,
+  "tipo": "doble",
+  "descripcion": "Habitación doble, cama XL, terraza con vistas al mar",
+  "ultimaLimpieza": {
+    "$date": "2023-09-20T11:24:00.000Z"
+  },
+  "precio": 59.9,
+  "incidencias": [
+    {
+      "descripcion": "No funciona el aire acondicionado",
+      "fechaInicio": {
+        "$date": "2023-09-19T18:12:54.000Z"
+      },
+      "_id": {
+        "$oid": "10011a1a1a1a1a1a1a1a1a1a"
+      }
+    },
+    {
+      "descripcion": "No funciona el interruptor del aseo",
+      "fechaInicio": {
+        "$date": "2023-09-20T10:15:06.000Z"
+      },
+      "_id": {
+        "$oid": "10021a1a1a1a1a1a1a1a1a1a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "2b2b2b2b2b2b2b2b2b2b2b2b"
+  },
+  "numero": 2,
+  "tipo": "familiar",
+  "descripcion": "Habitación familiar, cama XL y literas, aseo con bañera",
+  "ultimaLimpieza": {
+    "$date": "2023-08-02T10:35:15.000Z"
+  },
+  "precio": 65.45,
+  "incidencias": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "3c3c3c3c3c3c3c3c3c3c3c3c"
+  },
+  "numero": 3,
+  "tipo": "familiar",
+  "descripcion": "Habitación familiar, cama XL y sofá cama, cocina con nevera",
+  "ultimaLimpieza": {
+    "$date": "2023-11-07T10:35:38.707Z"
+  },
+  "precio": 69.15,
+  "incidencias": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "numero": 5,
+  "tipo": "individual",
+  "descripcion": "Habitación simple, cama 150",
+  "ultimaLimpieza": {
+    "$date": "2023-11-07T10:35:38.707Z"
+  },
+  "precio": 34.65,
+  "incidencias": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d50560f7cb37c63543489"
+  },
+  "numero": 6,
+  "tipo": "doble",
+  "descripcion": "Habitacion 2 camas",
+  "ultimaLimpieza": {
+    "$date": "2023-09-20T11:24:00.000Z"
+  },
+  "precio": 190,
+  "incidencias": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d50590f7cb37c6354348b"
+  },
+  "numero": 6,
+  "tipo": "doble",
+  "descripcion": "Habitacion 2 camas",
+  "ultimaLimpieza": {
+    "$date": "2023-09-20T11:24:00.000Z"
+  },
+  "precio": 190,
+  "incidencias": [],
+  "__v": 0
+}]

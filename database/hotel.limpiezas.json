@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "20021a1a1a1a1a1a1a1a1a1a"
+  },
+  "idHabitacion": {
+    "$oid": "1a1a1a1a1a1a1a1a1a1a1a1a"
+  },
+  "fechaHora": {
+    "$date": "2023-09-20T11:24:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "20012b2b2b2b2b2b2b2b2b2b"
+  },
+  "idHabitacion": {
+    "$oid": "2b2b2b2b2b2b2b2b2b2b2b2b"
+  },
+  "fechaHora": {
+    "$date": "2023-08-02T10:35:15.000Z"
+  },
+  "observaciones": "Desperfectos en puerta del aseo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "20024d4d4d4d4d4d4d4d4d4d"
+  },
+  "idHabitacion": {
+    "$oid": "4d4d4d4d4d4d4d4d4d4d4d4d"
+  },
+  "fechaHora": {
+    "$date": "2023-10-10T12:05:10.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "20015e5e5e5e5e5e5e5e5e5e"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-07T10:35:38.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "20011a1a1a1a1a1a1a1a1a1a"
+  },
+  "idHabitacion": {
+    "$oid": "1a1a1a1a1a1a1a1a1a1a1a1a"
+  },
+  "fechaHora": {
+    "$date": "2023-09-18T10:59:12.000Z"
+  },
+  "observaciones": "Dejan toallas para cambiar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "20013c3c3c3c3c3c3c3c3c3c"
+  },
+  "idHabitacion": {
+    "$oid": "3c3c3c3c3c3c3c3c3c3c3c3c"
+  },
+  "fechaHora": {
+    "$date": "2023-11-07T10:35:38.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "20014d4d4d4d4d4d4d4d4d4d"
+  },
+  "idHabitacion": {
+    "$oid": "4d4d4d4d4d4d4d4d4d4d4d4d"
+  },
+  "fechaHora": {
+    "$date": "2023-11-07T10:35:38.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65650623cf6d7b7dd8685922"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:12:03.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65650697cf6d7b7dd8685924"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:13:59.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65650699cf6d7b7dd8685926"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:14:01.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656506b2cf6d7b7dd8685928"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:14:26.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656506b4cf6d7b7dd868592a"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:14:28.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656506b5cf6d7b7dd868592c"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:14:29.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65650792cf6d7b7dd868592e"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:18:10.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65650794cf6d7b7dd8685930"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:18:12.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65650794cf6d7b7dd8685932"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:18:12.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65650795cf6d7b7dd8685934"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:18:13.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65650796cf6d7b7dd8685936"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:18:14.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6565079acf6d7b7dd8685938"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5a5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:18:18.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656507dccf6d7b7dd868593a"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:19:24.465Z"
+  },
+  "observaciones": "Muy sucia",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656507eecf6d7b7dd868593c"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:19:42.208Z"
+  },
+  "observaciones": "Muy sucia",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656507fecf6d7b7dd868593e"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:19:58.340Z"
+  },
+  "observaciones": "Muy sucia",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656507ffcf6d7b7dd8685940"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:19:59.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65650800cf6d7b7dd8685942"
+  },
+  "idHabitacion": {
+    "$oid": "5e5e5e5e5e5e5e5e5e5e5e5e"
+  },
+  "fechaHora": {
+    "$date": "2023-11-27T21:20:00.342Z"
+  },
+  "__v": 0
+}]

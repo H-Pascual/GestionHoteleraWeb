@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand navbar-light">
+    <ul class="navbar-nav mr-auto">
+        {% if (session and session.usuario) %}
+            <li class="nav-item m-1">
+                <a href="/habitaciones" class="btn btn-outline-primary">Habitaciones</a>
+            </li>
+            <li class="nav-item m-1">
+                <a href="/habitaciones/nueva" class="btn btn-outline-primary">Nueva habitaciones</a>
+                <li>
+                    <li class="nav-item m-1">
+                        <a href="/auth/logout" class="btn btn-outline-primary">Logout</a>
+                    </li>
+                {% else %}
+                    <li class="nav-item m-1">
+                        <a href="/auth/login" class="btn btn-outline-primary">Login</a>
+                    </li>
+                {% endif %}
+            </ul>
+        </nav>

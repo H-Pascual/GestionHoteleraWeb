@@ -1,0 +1,16 @@
+{% extends "base.njk" %}
+{% block titulo %}Limpiezas | Listado{% endblock %}
+{% block contenido %}
+    <h1>Limpiezas de habitación {{idHabitacion}}</h1>
+    <a href="/limpiezas/{{idHabitacion}}/nueva" class="btn btn-success m-1">Nueva limpieza</a>
+    {% for limpieza in limpiezas %}
+    <div class="card">
+        {% if limpieza.fechaHora != null %}
+        <p>{{limpieza.fechaHora.toLocaleString()}}</p><br>
+        {% else %}
+        <p>Sin observaciones</p><br>
+        {% endif %}
+        <p>{{limpieza.observaciones}}</p>
+    </div>
+    {% endfor %}
+{% endblock %}
