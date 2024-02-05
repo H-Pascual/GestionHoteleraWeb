@@ -11,7 +11,7 @@
     </p>
     <p>{{ habitacion.descripcion }}</p>
     {% if(habitacion.imagen) %}
-        <img src="uploads/habitaciones/{{ habitacion.imagen }}">
+        <img src="/uploads/habitaciones/{{ habitacion.imagen }}">
         {% endif %}
         <h2>Incidencias</h2>
         <h3>Nueva Incidencia</h3>
@@ -42,7 +42,7 @@
                         <div class="card">
                             <div class="card-body">
                                 {% if(incidencia.imagen) %}
-                                    <img src="uploads/habitaciones/{{ incidencia.imagen }}">
+                                    <img src="/uploads/habitaciones/{{ incidencia.imagen }}">
                                     {% endif %}
                                     <p>{{ incidencia.fechaInicio.toLocaleString() }}</p>
                                     <br>
